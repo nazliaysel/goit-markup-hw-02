@@ -1,0 +1,189 @@
+h1{
+    font-weight: bold;
+    font-size: 56px;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 36px;
+}
+
+h3{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+a{
+    font-size:12px;
+    text-decoration: underline;
+}
+ul  {
+    list-style-type: none;
+}
+
+.header-logo-one{
+    font-size:18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #4d5ae5;
+}
+
+.header-logo-two{
+    color: #2e2f42;
+}
+
+.menu{
+    text-decoration: none;
+    color: #2e2f42;
+    font-size:16px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+}
+
+.menu:hover, .menu:focus{
+    color:#404bbf;
+}
+
+.contacts{
+    font-style: normal;
+}
+
+.contact-info{
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.contact_list:hover, .contact_list:focus{
+    color: #404bbf;
+}
+
+.main-page{
+    background-color: #2E2F42;
+    text-align: center;
+}
+
+.main-page-h-one{
+    color:#ffffff;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+}
+
+.button{
+    text-align: center;
+    letter-spacing: 0.04em;
+    color:white;
+    background-color:#4D5AE5;
+    font-size:16px;
+    font-weight: 500;
+    line-height: 1.5;
+    border: none;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color: #404BBF;
+}
+.button:focus{
+    background-color: #404BBF;
+}
+
+.services-subtitle{
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.services-text{
+    letter-spacing: 0.02em;
+}
+
+.team{
+    background-color: #F4F4FD;
+}
+
+.team-title{
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
+    letter-spacing: 0.02em;
+}
+
+.team-subtitle{
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.team-text{
+    font-size: 16px;
+    letter-spacing: 0.02em;
+}
+
+.team ul {
+    list-style: none outside none;
+}
+.team li{
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.portfolio{
+    text-align: center;
+
+}
+
+.portfolio-title{
+    line-height: 1.11;
+    text-transform: capitalize;
+    color:#2e2f42;
+    letter-spacing: 0.02em;
+}
+.portfolio-subtitle{
+    font-weight: 500;
+    line-height: 1.2;
+    color: #2e2f42;
+    letter-spacing: 0.02em;
+}
+.portfolio-text{
+    letter-spacing: 0.02em;
+}
+
+footer{
+    background-color: #2E2F42;
+    letter-spacing: 17.33;
+}
+
+.footer-text{
+    color:#F4F4FD;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+.footer-logo-one{
+    line-height: 1.17;
+    font-size:18px;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    color: #4d5ae5;
+    text-transform: uppercase
+    
+}
+
+.footer-logo-two{
+    color: #F4F4FD;
+}
+
+
+
+
+
