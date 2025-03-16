@@ -17,18 +17,23 @@ h2{
 }
 
 h3{
-    font-weight: bold;
+    font-weight: medium;
     font-size: 20px;
 }
 
-
+button{
+}
 
 a{
     font-size:12px;
     text-decoration: underline;
 }
-ul  {
+ol, ul  {
     list-style-type: none;
+}
+
+/*header*/
+#header{ 
 }
 
 .header-logo-one{
@@ -72,6 +77,13 @@ ul  {
     color: #404bbf;
 }
 
+menu:active{
+    text-decoration: underline;
+    text-decoration-color: #404BBF;
+    color:#404BBF;
+}
+
+/*main-page*/
 .main-page{
     background-color: #2E2F42;
     text-align: center;
@@ -103,6 +115,15 @@ ul  {
     background-color: #404BBF;
 }
 
+/*services*/
+.services{
+
+}
+
+.services-item{
+
+}
+
 .services-subtitle{
     font-weight: 500;
     line-height: 1.2;
@@ -114,6 +135,11 @@ ul  {
     letter-spacing: 0.02em;
 }
 
+.services li{
+
+}
+
+/*team*/
 .team{
     background-color: #F4F4FD;
 }
@@ -124,6 +150,10 @@ ul  {
     text-transform: capitalize;
     color: #2e2f42;
     letter-spacing: 0.02em;
+}
+
+.team-title{
+
 }
 
 .team-subtitle{
@@ -146,8 +176,13 @@ ul  {
     text-align: center;
 }
 
+/*portfolio*/
 .portfolio{
     text-align: center;
+
+}
+
+.portfolio li{
 
 }
 
@@ -167,6 +202,7 @@ ul  {
     letter-spacing: 0.02em;
 }
 
+/*footer*/
 footer{
     font-family: "Raleway",sans-serif;
     background-color: #2E2F42;
